@@ -1,7 +1,9 @@
 import sys
 
 """
-https://www.codeground.org/practice/practiceProblemViewNew
+Question : https://www.codeground.org/practice/practiceProblemViewNew
+My Answer : https://blog.naver.com/milktea0614/222504586184
+
 """
 
 inf = sys.stdin
